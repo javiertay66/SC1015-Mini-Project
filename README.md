@@ -15,10 +15,10 @@ This dataset offers an intricate exploration of market dynamics spanning five ye
   5. Data-Driven Insights and Conclusion
   6. References
 
-1. Problem Formulation
+##1. Problem Formulation
    -To explore the relationship between different commodities/indexes.
    -To find out which commodity/index serves as the best predictor for Gold Price
    
-2. Data Preparation and Cleaning
+##2. Data Preparation and Cleaning
 For this section of our project, we cleaned the data by removing unneccessary columns and removing the null values. We created nice visualisations where we plotted graphs for better visualisations of the dataset. Then we did a preliminary exploration where we plotted the correlation matrix to find out which stocks to choose and use to predict gold prices. Lastly, we find out the statistic for each stock by plotting a time series graph and a scatter plot showing the stock's correlation with gold price.
    
