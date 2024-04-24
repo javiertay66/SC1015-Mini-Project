@@ -17,6 +17,7 @@ This dataset offers an intricate exploration of market dynamics spanning five ye
 
 ## 1. Problem Formulation
 To explore the relationship between different commodities/indexes.
+
 To find out which commodity/index serves as the best predictor for Gold Price.
    
 ## 2. Data Preparation and Cleaning
@@ -44,6 +45,6 @@ AY2023/24 SC1015 ECDS1 Group 6
 
 JAVIER TAY YU XIANG JTAY091@E.NTU.EDU.SG (EDA, Linear Regression, Random Forest Classification)
 
-JARED ONG KAI ZE 
+JARED ONG KAI ZE JA0001ZE@E.NTU.EDU.SG
 
 ERNEST THEN SHI SHENG ETHEN003@E.NTU.EDU.SG
