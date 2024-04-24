@@ -16,8 +16,8 @@ This dataset offers an intricate exploration of market dynamics spanning five ye
   5. Data-Driven Insights and Conclusion
 
 ## 1. Problem Formulation
-   -To explore the relationship between different commodities/indexes.
-   -To find out which commodity/index serves as the best predictor for Gold Price
+To explore the relationship between different commodities/indexes.
+To find out which commodity/index serves as the best predictor for Gold Price.
    
 ## 2. Data Preparation and Cleaning
 In this section, we cleaned and prepared the dataset to help us analyze our data better. This also ensures that our data is accurate, complete and consistent to prevent any errors further down the road. This will allow us to draw reliable conclusions, make informed decisions and avoid misleading insights. We removed unneccessary columns in the dataset, checked for duplicate entries and checked for null values in our dataset.
