@@ -6,3 +6,5 @@ Our dataset is from Kaggle: "2019-2024 US Stock Market Data" by Saket Kumar
 Source: https://www.kaggle.com/datasets/saketk511/2019-2024-us-stock-market-data
 
 This dataset offers an intricate exploration of market dynamics spanning five years (2019-2024). It represents a valuable dataset for dissecting trends and patterns within the global markets.
+
+## Table of Contents:
