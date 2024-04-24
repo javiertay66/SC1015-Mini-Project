@@ -30,6 +30,7 @@ For this section of our project, we first did a preliminary exploration where we
    1. Linear Regression
    2. Seasonal Autoregressive Integrated Moving Average Model (SARIMA)
    3. Random Forest Classification
+   4. 
 We first applied Linear Regression to compare each of the predictors and choose the most suitable predictor for gold price, which is Apple Price. Next, we incorporated the SARIMA model with Apple prices as an exogenous variable. Apple prices can provide additional insights that can help SARIMA model better capture the relationships between gold and apple prices, thus improving the accuracy of predicting future gold prices. Lastly, we used Random Forest Classification to classify whether to buy gold or not based on the following condition: If Apple_Price increases for 2 days consecutively, we will classify as 'Buy" and vice versa.
 
 ## 5. Data-Driven Insights & Conclusion
