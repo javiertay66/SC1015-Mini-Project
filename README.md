@@ -27,5 +27,13 @@ For this section of our project, we first did a preliminary exploration where we
 
 ## 4. Machine Learning  
    1. Linear Regression
-   2. SARIMA
-   3. Random Forest
+   2. Seasonal Autoregressive Integrated Moving Average Model (SARIMA)
+   3. Random Forest Classification
+We first applied Linear Regression to compare each of the predictors and choose the most suitable predictor for gold price, which is Apple Price. Next, we incorporated the SARIMA model with Apple prices as an exogenous variable. Apple prices can provide additional insights that can help SARIMA model better capture the relationships between gold and apple prices, thus improving the accuracy of predicting future gold prices. Lastly, we used Random Forest Classification to classify whether to buy gold or not based on the following condition: If Apple_Price increases for 2 days consecutively, we will classify as 'Buy" and vice versa.
+
+## 5. Data-Driven Insights & Conclusion
+From our analysis, we found that Apple stock price has the highest correlation coefficient with Gold prices, lowest Mean Squared Error(MSE) and highest R^2. Hence, we chose Apple price as the predictor for Gold prices. 
+
+The dataset actually tells us that there are many stocks we can use to predict Gold prices and hence choosing the most suitable one is essential for optimal accuracy. Using the prediction models like the random forest classification, we can see a relatively high accuracy. Thus, we think that it is indeed possible to predict future gold prices. 
+
+However, it is important to be wary that the prediction models are not 100% accurate. We should not entirely depend on such models to strike it rich fast. 
