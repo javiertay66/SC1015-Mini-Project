@@ -41,6 +41,8 @@ Overall, our model is particularly good at predicting when not to enter the mark
 School of Computer Science and Engineering, NTU Singapore
 AY2023/24 SC1015 ECDS1 Group 6
 
-JAVIER TAY YU XIANG JTAY091@E.NTU.EDU.SG
+JAVIER TAY YU XIANG JTAY091@E.NTU.EDU.SG (
+
 JARED ONG KAI ZE 
+
 ERNEST THEN SHI SHENG ETHEN003@E.NTU.EDU.SG
