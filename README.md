@@ -8,3 +8,10 @@ Source: https://www.kaggle.com/datasets/saketk511/2019-2024-us-stock-market-data
 This dataset offers an intricate exploration of market dynamics spanning five years (2019-2024). It represents a valuable dataset for dissecting trends and patterns within the global markets.
 
 ## Table of Contents:
+  1. Problem Formulation
+  2. Data Preparation and CLeaning
+  3. Exploratory Data Analysis
+  4. Machine Learning
+  5. Data-Driven Insights and Conclusion
+  6. References
+
