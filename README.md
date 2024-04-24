@@ -13,7 +13,6 @@ This dataset offers an intricate exploration of market dynamics spanning five ye
   3. Exploratory Data Analysis
   4. Machine Learning
   5. Data-Driven Insights and Conclusion
-  6. References
 
 ## 1. Problem Formulation
    -To explore the relationship between different commodities/indexes.
@@ -34,6 +33,13 @@ We first applied Linear Regression to compare each of the predictors and choose 
 ## 5. Data-Driven Insights & Conclusion
 From our analysis, we found that Apple stock price has the highest correlation coefficient with Gold prices, lowest Mean Squared Error(MSE) and highest R^2. Hence, we chose Apple price as the predictor for Gold prices. 
 
-The dataset actually tells us that there are many stocks we can use to predict Gold prices and hence choosing the most suitable one is essential for optimal accuracy. Using the prediction models like the random forest classification, we can see a relatively high accuracy. Thus, we think that it is indeed possible to predict future gold prices. 
+The dataset actually tells us that there are many stocks we can use to predict Gold prices and hence choosing the most suitable one is essential for optimal accuracy. Using the prediction models like the random forest classification, we can see a relatively high accuracy. Thus, we think that it is indeed possible to predict future gold prices. However, it is important to be wary that the prediction models are not 100% accurate. We should not entirely depend on such models to strike it rich overnight. There are high risks in investing in gold as the fluctutations are hard to predict.
 
-However, it is important to be wary that the prediction models are not 100% accurate. We should not entirely depend on such models to strike it rich fast. 
+Overall, our model is particularly good at predicting when not to enter the market to buy gold, evident by the high True Positive Rate and low False negative rate as seen in our confusion matrix. Hence, our model will prove useful to risk-averse investors who might have qualms about investing.
+
+## Contributors
+School of Computer Science and Engineering, NTU Singapore
+AY2023/24 SC1015 ECDS1 Group 6
+JAVIER TAY YU XIANG JTAY091@E.NTU.EDU.SG
+JARED ONG KAI ZE 
+ERNEST THEN SHI SHENG ETHEN003@E.NTU.EDU.SG
