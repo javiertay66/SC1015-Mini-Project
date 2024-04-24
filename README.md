@@ -15,10 +15,17 @@ This dataset offers an intricate exploration of market dynamics spanning five ye
   5. Data-Driven Insights and Conclusion
   6. References
 
-1. Problem Formulation
+## 1. Problem Formulation
    -To explore the relationship between different commodities/indexes.
    -To find out which commodity/index serves as the best predictor for Gold Price
    
-2. Data Preparation and Cleaning
-For this section of our project, we cleaned the data by removing unneccessary columns and removing the null values. We created nice visualisations where we plotted graphs for better visualisations of the dataset. Then we did a preliminary exploration where we plotted the correlation matrix to find out which stocks to choose and use to predict gold prices. Lastly, we find out the statistic for each stock by plotting a time series graph and a scatter plot showing the stock's correlation with gold price.
-   
+## 2. Data Preparation and Cleaning
+In this section, we cleaned and prepared the dataset to help us analyze our data better. This also ensures that our data is accurate, complete and consistent to prevent any errors further down the road. This will allow us to draw reliable conclusions, make informed decisions and avoid misleading insights. We removed unneccessary columns in the dataset, checked for duplicate entries and checked for null values in our dataset.
+
+## 3. Exploratory Data Analysis
+For this section of our project, we first did a preliminary exploration where we plotted the correlation matrix to find out which stocks to choose and use to predict gold prices. After carefully analyzing the results, we chose the following 3 predictors: Nasdaq_100_Price, Apple Price and Silver_Price, where we picked one predictor from each asset classes which seem to have a high correlation with Gold Price so that we do not "overcommit" to one asset class.  We then found out the statistics for each stock and we plotted a time series graph and a scatter plot showing the stock's correlation with gold price to better understand these predictors.
+
+## 4. Machine Learning  
+   1. Linear Regression
+   2. SARIMA
+   3. Random Forest
